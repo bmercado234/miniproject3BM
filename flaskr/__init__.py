@@ -1,7 +1,13 @@
+# INF601 - Advanced Programming in Python
+# Braulio Mercado
+# Mini Project 3
+# (5/5 points) Initial comments with your name, class and project at the top of your .py file.
+
+
+# (5/5 points) Proper import of packages used
 import os
 
 from flask import Flask
-
 
 def create_app(test_config=None):
     # create and configure the app
@@ -40,3 +46,5 @@ def create_app(test_config=None):
     app.add_url_rule('/', endpoint='index')
 
     return app
+
+# (5/5 points) There should be a minimum of 5 commits on your project, be sure to commit often!

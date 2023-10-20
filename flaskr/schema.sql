@@ -1,3 +1,5 @@
+--(10/10 points) You need to setup a SQLlite database with a minimum of two tables, linked with a foreign key.
+
 DROP TABLE IF EXISTS user;
 DROP TABLE IF EXISTS post;
 

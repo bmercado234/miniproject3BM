@@ -13,8 +13,8 @@ class. Utilizes flask in creating web applications.
 
 ## Description
 
-Program creates a small web application testing out basic features of flask and bootstrap. Web application
- contains login, register, and form pages. Has proper GET and POST routes setup. 
+Program creates a small web application testing out basic features of flask and bootstrap. 
+Web application contains login, register, and form pages. Has proper GET and POST routes setup. 
 
 ## Getting Started
 
